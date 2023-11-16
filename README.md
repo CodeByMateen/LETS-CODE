@@ -23,3 +23,10 @@ https://www.youtube.com/playlist?list=PLYAlGR1wWgUUyYZ3wX2GdnhiL-QVhAXfR
 
 To Check Time Complexity of Program with Explanation
 https://www.timecomplexity.ai/
+
+Link to Hacker Rank
+https://www.hackerrank.com/domains/python
+https://www.hackerrank.com/domains/sql
+
+Link to Hacker Earth
+https://www.hackerearth.com/for-developers/
