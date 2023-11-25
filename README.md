@@ -24,6 +24,9 @@ https://www.youtube.com/playlist?list=PLYAlGR1wWgUUyYZ3wX2GdnhiL-QVhAXfR
 To Check Time Complexity of Program with Explanation
 https://www.timecomplexity.ai/
 
+Fraz Playlist
+https://www.youtube.com/@mohammadfraz/playlists
+
 Link to Hacker Rank
 https://www.hackerrank.com/domains/python
 https://www.hackerrank.com/domains/sql
