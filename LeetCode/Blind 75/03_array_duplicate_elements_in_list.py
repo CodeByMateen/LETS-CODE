@@ -8,7 +8,6 @@ for i in nums:
         numnew.append(i)
         
 # Solution 2 
-
 nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]
 num_set = set()
 for i in nums:
