@@ -1,5 +1,11 @@
 # Competetive-Programming
 
+HackerRank Algorithms/Logic Practice (Recommended to do first)
+https://hackerrank.com/domains/algorithms
+
+Github link to algorithm challenges
+https://github.com/topics/algorithm-challenges
+
 LeetCode Blind 75
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 
@@ -33,6 +39,3 @@ https://www.hackerrank.com/domains/sql
 
 Link to Hacker Earth
 https://www.hackerearth.com/for-developers/
-
-Github link to algorithm challenges
-https://github.com/topics/algorithm-challenges
