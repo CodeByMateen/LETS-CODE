@@ -33,3 +33,6 @@ https://www.hackerrank.com/domains/sql
 
 Link to Hacker Earth
 https://www.hackerearth.com/for-developers/
+
+Github link to algorithm challenges
+https://github.com/topics/algorithm-challenges
