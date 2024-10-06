@@ -3,6 +3,9 @@
 HackerRank Algorithms/Logic Practice (Recommended to do first)
 https://hackerrank.com/domains/algorithms
 
+Anther good playlist:
+https://github.com/ombharatiya/FAANG-Coding-Interview-Questions?tab=readme-ov-file#amazon
+
 Github link to algorithm challenges
 https://github.com/topics/algorithm-challenges
 
