@@ -1,4 +1,4 @@
-# Competetive-Programming
+# Practix-Programming-Sites
 
 HackerRank Algorithms/Logic Practice (Recommended to do first)
 https://hackerrank.com/domains/algorithms
