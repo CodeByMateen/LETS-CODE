@@ -1,3 +1,7 @@
+# Patterns
+
+![image](https://github.com/user-attachments/assets/28c662f5-571b-409c-9bdf-07d9e12fba96)
+
 # Practix-Programming-Sites
 
 HackerRank Algorithms/Logic Practice (Recommended to do first)
