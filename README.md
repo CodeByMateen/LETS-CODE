@@ -1,5 +1,7 @@
 # Patterns
 
+![image](https://github.com/user-attachments/assets/7ec19872-627d-4162-9702-71c2a607e945)
+
 ![image](https://github.com/user-attachments/assets/28c662f5-571b-409c-9bdf-07d9e12fba96)
 
 # Patterns Guide
